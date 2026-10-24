@@ -1,6 +1,6 @@
 # 🇦🇿 Azerbaijan TV & Radio Player
 
-[🇬🇧 English](README.md) | [🇦🇿 Azərbaycan dili](README.az.md)
+🇬🇧 English | [🇦🇿 Azərbaycan dili](README.az.md)
 
 A modern Android player for watching Azerbaijani television channels and listening to Azerbaijani radio stations — all in one place.
 

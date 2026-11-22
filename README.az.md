@@ -21,6 +21,14 @@ Sevimli yerli kanallarınızı bir yerdə kəşf edin və rahat, sadə, zövqlü
 4. Quraşdırmanı tamamlayın və tətbiqi başladın.
 5. İstədiyiniz TV kanalını və ya radio stansiyasını seçərək yayımdan həzz alın!
 
+### 📺 Android TV
+
+1. Televizorda Play Store-dan pulsuz **Downloader** tətbiqini (AFTVnews) yükləyin.
+2. Onu açın və **2121500** kodunu yazın.
+3. FCP Player-in ən son APK faylı yüklənəcək. Soruşduqda quraşdırın.
+
+Ən son APK-ya birbaşa link: https://github.com/fcp-player/fcp-player/releases/latest/download/fcpplayer.apk
+
 ## 📡 Tələblər
 
 - Android əməliyyat sistemli cihaz.

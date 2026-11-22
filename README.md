@@ -21,6 +21,14 @@ A modern Android player for watching Azerbaijani television channels and listeni
 4. Install and launch the application.
 5. Choose a TV channel or radio station and enjoy!
 
+### 📺 Android TV
+
+1. Install the free **Downloader** app (by AFTVnews) from the Play Store on your TV.
+2. Open it and enter the code **2121500**.
+3. The latest FCP Player APK downloads. Install it when asked.
+
+Direct link to the latest APK: https://github.com/fcp-player/fcp-player/releases/latest/download/fcpplayer.apk
+
 ## 📡 Requirements
 
 - An Android device.

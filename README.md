@@ -47,4 +47,4 @@ If you enjoy the application, consider giving the repository a ⭐ on GitHub. Fo
 
 ---
 
-**Made with ❤️ for Azerbaijani TV and radio lovers. 🇦🇿**
+**Made with ❤️ for Azerbaijani TV and radio lovers. 🇦🇿** 
